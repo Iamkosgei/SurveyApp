@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item android:id="@+id/questionsFragment"
+        android:title="@string/questions"
+        app:showAsAction="always"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_baseline_question_answer_24"/>
+
+    <item android:id="@+id/submissionsFragment"
+        android:title="@string/submissions"
+        app:showAsAction="always"
+        android:orderInCategory="2"
+        android:icon="@drawable/ic_baseline_list_24"/>
+
+
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Survey</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submissions">Submissions</string>
+    <string name="questions">Questions</string>
+    <string name="completed_surveys">Completed Surveys</string>
+    <string name="please_enter_a_value">Please enter or select a value</string>
+    <string name="submit">SUBMIT</string>
+    <string name="next">NEXT</string>
+    <string name="value_not_valid">Value not valid</string>
+    <string name="survey">Survey</string>
+    <string name="answer">Answer</string>
+    <string name="no_surveys_completed">No surveys completed</string>
+</resources>
